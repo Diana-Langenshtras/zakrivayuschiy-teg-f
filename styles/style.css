@@ -492,9 +492,6 @@
 }
 
 @media (width <= 375px) {
-  .page {
-    padding-top: 100px;
-  }
   .content {
     width: 100%;
   }
