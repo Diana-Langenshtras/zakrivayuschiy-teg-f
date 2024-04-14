@@ -11,6 +11,10 @@
     --second-weight: 700;
     --bg-color: #fff;
     --accent-color: #000;
+    --stroke-color: var(--bg-color);
+    --text-color: var(--bg-color);
+    --outline-color: var(--accent-color);
+    --fill-color: red;
     --bg-image: repeating-linear-gradient(#d3d3d3 0 2px, rgb(211 211 211 / 0) 2px 4px),
     repeating-linear-gradient(90deg, #d3d3d3 0 2px, rgb(211 211 211 / 0) 2px 4px),
     linear-gradient(#e7e7e7 0.01%, #1a1a1a);
@@ -24,6 +28,10 @@
     --second-weight: 700;
     --bg-color: #fff;
     --accent-color: #000;
+    --stroke-color: var(--bg-color);
+    --text-color: var(--bg-color);
+    --outline-color: var(--accent-color);
+    --fill-color: red;
     --bg-image: repeating-linear-gradient(#d3d3d3 0 2px, rgb(211 211 211 / 0) 2px 4px),
     repeating-linear-gradient(90deg, #d3d3d3 0 2px, rgb(211 211 211 / 0) 2px 4px),
     linear-gradient(#e7e7e7 0.01%, #1a1a1a);
@@ -37,6 +45,10 @@
     --second-weight: 785;
     --bg-color: #000;
     --accent-color: #00cc14;
+    --stroke-color: var(--bg-color);
+    --text-color: var(--accent-color);
+    --outline-color: var(--accent-color);
+    --fill-color: red;
     --bg-image: repeating-linear-gradient(#000 0 2px, rgb(211 211 211 / 0) 2px 4px),
     repeating-linear-gradient(90deg, #000 0 2px, rgb(211 211 211 / 0) 2px 4px),
     linear-gradient(#007f0c 0.01%, #004306);
@@ -50,6 +62,10 @@
     --second-weight: 785;
     --bg-color: #000;
     --accent-color: #00cc14;
+    --stroke-color: var(--bg-color);
+    --text-color: var(--accent-color);
+    --outline-color: var(--accent-color);
+    --fill-color: red;
     --bg-image: repeating-linear-gradient(#000 0 2px, rgb(211 211 211 / 0) 2px 4px),
     repeating-linear-gradient(90deg, #000 0 2px, rgb(211 211 211 / 0) 2px 4px),
     linear-gradient(#007f0c 0.01%, #004306);
