@@ -381,12 +381,12 @@
         </article>
       </li>
     </ul>
-    <button class="button main__button">
+    <button class="button main__button" type="button" onclick="window['dialog-id'].showModal();"
+    aria-controls="dialog-id">
       <svg class="floppy" width="21" height="21" viewBox="0 0 21 21">
         <use href="svg/floppy.svg#floppy">
       </svg>
-      <span class="button__text main__button-text" type="button" onclick="window['dialog-id'].showModal();"
-        aria-controls="dialog-id">Сохранить на память</span>
+      <span class="button__text main__button-text">Сохранить на память</span>
     </button>
     <dialog id="dialog-id" class="dialog">
       <div class="wrapper__dialog">
